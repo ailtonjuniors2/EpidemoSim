@@ -186,6 +186,7 @@ button(text="RESETAR / APLICAR", bind=click_reset, background=color.red, color=c
 
 scene.append_to_caption("\n\n")
 
+
 # Mostrador de Estatísticas em Tempo Real
 lbl_stats = wtext(text="Aguardando início...")
 scene.append_to_caption("\n\n------------------------------------------------\n")
